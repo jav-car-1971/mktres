@@ -397,7 +397,7 @@ theme:
 # | - https://www.mkdocs.org/user-guide/configuration/#extra                                               |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-extra:
+# extra: ### la comento porque aparntemente daba error
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
   # | The social section allows you to set a list of entries which would be displayed in the footer of the |
