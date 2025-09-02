@@ -25,6 +25,9 @@ on:
     #tags-ignore:
     #- '**'
 
+permissions: ### Agregado 2/9/2025
+  contents: write ### Agregado 2/9/2025
+
 jobs:
   build:
     runs-on: ubuntu-latest
