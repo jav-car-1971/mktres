@@ -76,7 +76,7 @@ docs_dir: docs/
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 repo_name: mktres
-repo_url: https://github.com/mktres
+repo_url: https://github.com/jav-car-1971/mktres
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
@@ -412,9 +412,9 @@ extra:
   # | - https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links              |
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
-  social:
-    - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/mktres'
+ # social:
+  #  - icon: 'fontawesome/brands/github'
+   #   link: 'https://github.com/mktres'
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
